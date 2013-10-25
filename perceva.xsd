@@ -6,5 +6,5 @@
         <xs:element name="sector"/>
           <xs:element name="departmnet"/>
             <xs:element name="group"/>
-              <xs:element name="student"/>    
+                
 </xs:schema>
